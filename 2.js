@@ -11,3 +11,5 @@ function minimumWaitingTime(queries) {
   
     return totalWaitingTime;
   }
+
+  exports.minimumWaitingTime = minimumWaitingTime;
